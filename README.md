@@ -1,2 +1,4 @@
 # linux_ShellScripts
-Add useeful linux shell scripts
+Add useful linux shell scripts
+don't spam
+please check if the script works
